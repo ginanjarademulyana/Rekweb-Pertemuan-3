@@ -1,2 +1,3 @@
 var nama = 'Ginanjar Ade Mulyana';
-console.log(nama)
+console.log(nama);
+>>>>>>> cobajs
